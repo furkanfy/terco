@@ -5,4 +5,3 @@ df=pd.read_csv('C:/Users/ASUS/Documents/terco/WA_Fn-UseC_-Telco-Customer-Churn.c
 print(df.head())
 
 
-print(df.info)
