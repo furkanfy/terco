@@ -5,5 +5,4 @@ df=pd.read_csv('C:/Users/ASUS/Documents/terco/WA_Fn-UseC_-Telco-Customer-Churn.c
 print(df.head())
 
 
-git config --global user.name "furkan"
-git config --global user.email "furkanyilmazce@gmail.com"
+print(df.info)
